@@ -1,0 +1,10 @@
+pageObjects\LandingPage.class
+jenkinsFile\jenkinsClass.class
+pageObjects\BasePage.class
+pageObjects\WelcomePage.class
+utilities\ExtentReportManager.class
+testCases\TC01_AccountReg.class
+utilities\DataProviders.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObjects\RegistrationPage.class

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T00:20:41 IST" name="Suite" finished-at="2024-09-24T00:20:55 IST" duration-ms="14916">
+    <groups>
+      <group name="Master">
+        <method signature="TC01_AccountReg.verify_account_registration(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC01_AccountReg@59309333]" name="verify_account_registration" class="testCases.TC01_AccountReg"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC01_AccountReg.verify_account_registration(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC01_AccountReg@59309333]" name="verify_account_registration" class="testCases.TC01_AccountReg"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2024-09-24T00:20:41 IST" name="Test" finished-at="2024-09-24T00:20:55 IST" duration-ms="14916">
+      <class name="testCases.TC01_AccountReg">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC01_AccountReg@59309333]" started-at="2024-09-24T00:20:41 IST" name="setup" finished-at="2024-09-24T00:20:48 IST" duration-ms="7145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registration(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC01_AccountReg@59309333]" started-at="2024-09-24T00:20:50 IST" name="verify_account_registration" data-provider="LoginData" finished-at="2024-09-24T00:20:55 IST" duration-ms="5385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Doe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[johndoe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[JohnDoe@00]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC01_AccountReg@59309333]" started-at="2024-09-24T00:20:55 IST" name="tearDown" finished-at="2024-09-24T00:20:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC01_AccountReg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
