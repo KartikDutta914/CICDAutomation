@@ -23,6 +23,7 @@ public class TC01_AccountReg extends BaseClass {
 		rp.setFirstname(fname);
 		logger.info("sent input to firstNme field");
 		rp.setLastName(lname);
+		logger.info("sent input to Lastname field");
 		rp.setEmail(email+ randomNumber()+ "@mailinator.com");
 		rp.setPassword(password);
 		rp.setConfirmPassword(password);

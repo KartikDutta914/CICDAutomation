@@ -1,0 +1,20 @@
+2024-09-24 00:10:43 INFO  TC01_AccountReg:17 - ****** Starting TC01_AccountReg ********8
+2024-09-24 00:10:44 INFO  TC01_AccountReg:22 - Clicked on create Account Button
+2024-09-24 00:10:44 INFO  TC01_AccountReg:24 - sent input to firstNme field
+2024-09-24 00:10:58 ERROR TC01_AccountReg:33 - Test Failed
+2024-09-24 00:12:17 INFO  TC01_AccountReg:17 - ****** Starting TC01_AccountReg ********8
+2024-09-24 00:12:18 INFO  TC01_AccountReg:22 - Clicked on create Account Button
+2024-09-24 00:12:19 INFO  TC01_AccountReg:24 - sent input to firstNme field
+2024-09-24 00:12:33 ERROR TC01_AccountReg:33 - Test Failed
+2024-09-24 00:16:56 INFO  TC01_AccountReg:17 - ****** Starting TC01_AccountReg ********8
+2024-09-24 00:16:59 INFO  TC01_AccountReg:22 - Clicked on create Account Button
+2024-09-24 00:16:59 INFO  TC01_AccountReg:24 - sent input to firstNme field
+2024-09-24 00:17:05 INFO  TC01_AccountReg:37 - TC01 finished
+2024-09-24 00:18:09 INFO  TC01_AccountReg:17 - ****** Starting TC01_AccountReg ********8
+2024-09-24 00:18:10 INFO  TC01_AccountReg:22 - Clicked on create Account Button
+2024-09-24 00:18:10 INFO  TC01_AccountReg:24 - sent input to firstNme field
+2024-09-24 00:18:14 INFO  TC01_AccountReg:37 - TC01 finished
+2024-09-24 00:20:50 INFO  TC01_AccountReg:17 - ****** Starting TC01_AccountReg ********8
+2024-09-24 00:20:51 INFO  TC01_AccountReg:22 - Clicked on create Account Button
+2024-09-24 00:20:52 INFO  TC01_AccountReg:24 - sent input to firstNme field
+2024-09-24 00:20:55 INFO  TC01_AccountReg:37 - TC01 finished
